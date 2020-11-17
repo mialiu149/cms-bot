@@ -1694,3 +1694,9 @@ ram1123:
   - RecoEcal
   - EgammaAnalysis
   - DataFormats/EgammaCandidates
+mialiu149:
+- PhysicsTools/TensorFlow
+- PhysicsTools/ONNXRuntime
+- PhysicsTools/MXNet
+- HeterogeneousCore/SonicCore
+- HeterogeneousCore/SonicTriton
